@@ -1,12 +1,12 @@
-# pyddos.py
+# ddos.py
 
-* This is my new update 
-* This script have 3 type of ddos attacks : SYNFLOOD | REQUEST | Pyslow
+* This is still in development 
+* This script has 3 types of DDos attacks : SYNFLOOD | REQUEST | Pyslow
 * Script has pyslow attack type which is similar to slowloris attack
 
 # Note
 * I wrote this script for educational not for destructive purposes and illegal actions, so I won't be responsible for that  
-
+* DDos servers only if you have explicit permission from the owners of the server or else you will get in a lot of trouble or maybe legal issues so best use something to hide yourself if you want to use it for malicious purposes [I do not condone malicious activities]
 
 # Requires module
 * termcolor
@@ -23,8 +23,8 @@
            ____/                                            _|         
                                                                
         DDos python script | Script used for testing ddos | Ddos attack     
-         Author: ___T7hM1___                                                
-         Github: http://github.com/t7hm1/pyddos                             
+         Author: Wack                                                
+         Github: https://github.com/Wackolmao/DDos-Script-Test                             
         Version:3.0 
 
     usage: python3 pyddos.py -t [target] -p [port] -t [number threads]

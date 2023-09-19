@@ -9,9 +9,10 @@ title = '''
     _|    \__, |____/ ____/ \___/ ____/ _____/ \___|_|   _| .__/ \__|  
            ____/                                            _|         
                                                                     
- DDos python script | Script used for testing ddos | Ddos attack     
- Author: ___T7hM1___                                                
- Github: http://github.com/t7hm1/pyddos                             
+ DDos python script | DDos script in tesing | DDos attack     
+ Author: Myassveryhotlmao [my discord id]                                                
+ Disclaimer: This isn't for malicious purposes and if you want to use it for malicious purposes, just be warned that any consequences for using it maliciously will be your fault ass DDos attacks are against the law in a lot of countries.
+ Github: https://github.com/Wackolmao/DDos-Script-Test                             
  Version:'''+version+''' 
 '''
 
