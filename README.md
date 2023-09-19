@@ -54,11 +54,10 @@
 
 
 # Guide on installing it in Ubuntu [Which was what I used]
-* My hosting I used is [Xentain Solutions](https://xentainsolutions.com) cheap and affordable vps 
+* My hosting I used is [Xentain Solutions](image.png)](https://xentainsolutions.com) cheap and affordable vps 
  ```
  git clone https://github.com/Wackolmao/DDos-Script-Test
  mv DDos-Script-Test ddoscript
  sudo apt update
  sudo apt install python3 python3-pip -y
  pip3 install termcolor colorama
-
